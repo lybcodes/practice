@@ -22,7 +22,7 @@ package leetcode.SlidingWindowAndDoublePointer;
  * 输入: s = "a", t = "aa"
  * 输出: ""
  * 解释: t 中两个字符 'a' 均应包含在 s 的子串中，
- * 因此没有符合条件的子字符串，返回空字符串。
+ * 因此没有符合条件的子字符串，返回空字符ddd串。
  */
 public class LC76 {
 
